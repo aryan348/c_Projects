@@ -13,8 +13,8 @@ This repo contains various C projects which I have worked on whhile completing C
    ```
    
  * <h3><b>Greedy algorithm using C <br/></b></h3>
-  https://gist.github.com/aryan348/68db3362b0e578b6990601dc8b2dd14a <br/>
-  Example: <br/>
+    https://gist.github.com/aryan348/68db3362b0e578b6990601dc8b2dd14a <br/>
+    Example: <br/>
   
    ```$ ./cash
       Change owed: 0.41
