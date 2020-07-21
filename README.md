@@ -11,6 +11,16 @@ This repo contains various C projects which I have worked on whhile completing C
    Number: 4003600000000014
    VISA 
    ```
+   
+ * <h3><b>Greedy algorithm using C <br/></b></h3>
+  https://gist.github.com/aryan348/68db3362b0e578b6990601dc8b2dd14a <br/>
+  Example: <br/>
+  
+   ```$ ./cash
+      Change owed: 0.41
+      4
+   ```
+   
 
 * <h3><b>C program that print Mario Blocks/Pyramid <br/></b></h3>
   https://gist.github.com/aryan348/4e2909089b02d7b902b21cd33436b057 <br/>
@@ -44,3 +54,5 @@ This repo contains various C projects which I have worked on whhile completing C
        #######  #######
       ########  ########
    ```
+   
+   
