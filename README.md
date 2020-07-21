@@ -27,3 +27,20 @@ This repo contains various C projects which I have worked on whhile completing C
         #######
        ########
    ```
+
+
+* <h3><b>C program that print Mario Blocks/Pyramid <br/></b></h3>
+  https://gist.github.com/aryan348/66b7399fa81b0b2a0a8048f78cd467b6 <br/>
+  Example: <br/>
+  
+   ```$ ./mario
+      Height: 8
+             #  #
+            ##  ##
+           ###  ###
+          ####  ####
+         #####  #####
+        ######  ######
+       #######  #######
+      ########  ########
+   ```
