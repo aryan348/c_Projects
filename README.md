@@ -20,7 +20,15 @@ This repo contains various C projects which I have worked on whhile completing C
       Change owed: 0.41
       4
    ```
-   
+ * <h3><b>Readability Program using Coleman-Liau index <br/></b></h3>
+    <p> Implement a program that tells the approximate grade level needed to comprehend some text.</p>
+    https://gist.github.com/aryan348/e556662be1b17eec6b0c08de541be73e <br/>
+    Example: <br/>
+  
+   ```$ ./readability
+      Text: Congratulations! Today is your day. You're off to Great Places! You're off and away!
+      Grade 3
+   ``` 
 
 * <h3><b>C program that print Mario Blocks/Pyramid <br/></b></h3>
   https://gist.github.com/aryan348/4e2909089b02d7b902b21cd33436b057 <br/>
