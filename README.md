@@ -24,12 +24,12 @@ This repo contains various C projects which I have worked on whhile completing C
   * <h3><b>Caesar ciphertext in C <br/></b></h3>
     <p> Program that encrypts messages using Caesar’s cipher, per the below. Below 13 is the key for shifting eache letter. One can use any key. </p>
     https://gist.github.com/aryan348/e556662be1b17eec6b0c08de541be73e <br/>
-    Example: <br/>
+    Example:
   
-   ```$ ./caesar 13
-      plaintext:  HELLO
-      ciphertext: URYYB
-   ``` 
+    ```$ ./caesar 13
+        plaintext:  HELLO
+        ciphertext: URYYB
+     ``` 
 
  * <h3><b>Readability Program using Coleman-Liau index <br/></b></h3>
     <p> Program that tells the approximate grade level needed to comprehend some text.</p>
