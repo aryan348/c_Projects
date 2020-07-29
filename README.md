@@ -1,7 +1,7 @@
 # C Projects
 This repo contains various C projects which I have worked on whhile completing CS50 problem sets
 
-* <h3><b>Luhn algorithm using C <br/></b></h3>
+* <h3><b>Credit Card check using Luhn algorithm <br/></b></h3>
   https://gist.github.com/aryan348/d390ec7aa4441ee086846516267cde4d <br/>
   Example: <br/>
   
@@ -12,7 +12,7 @@ This repo contains various C projects which I have worked on whhile completing C
    VISA 
    ```
    
- * <h3><b>Greedy algorithm using C <br/></b></h3>
+ * <h3><b>Change Owned Program using Greedy algorithm <br/></b></h3>
     https://gist.github.com/aryan348/68db3362b0e578b6990601dc8b2dd14a <br/>
     Example: <br/>
   
@@ -20,8 +20,19 @@ This repo contains various C projects which I have worked on whhile completing C
       Change owed: 0.41
       4
    ```
+
+  * <h3><b>Caesar ciphertext in C <br/></b></h3>
+    <p> Program that encrypts messages using Caesar’s cipher, per the below. Below 13 is the key for shifting eache letter. One can use any key. </p>
+    https://gist.github.com/aryan348/e556662be1b17eec6b0c08de541be73e <br/>
+    Example: <br/>
+  
+   ```$ ./caesar 13
+      plaintext:  HELLO
+      ciphertext: URYYB
+   ``` 
+
  * <h3><b>Readability Program using Coleman-Liau index <br/></b></h3>
-    <p> Implement a program that tells the approximate grade level needed to comprehend some text.</p>
+    <p> Program that tells the approximate grade level needed to comprehend some text.</p>
     https://gist.github.com/aryan348/e556662be1b17eec6b0c08de541be73e <br/>
     Example: <br/>
   
